@@ -1,0 +1,11 @@
+article {
+    border: 1px solid black;
+    box-shadow:8px 8px 8px blue;
+    margin-bottom: 20px;
+}
+
+article header h2 {
+    color: white;
+    background-color: black;
+
+}
